@@ -1,0 +1,26 @@
+.App {
+  max-width: 860px;
+  margin: 40px auto;
+}
+
+.App button {
+  background: none;
+  border: 2px solid #fff;
+  color: #fff;
+  border-radius: 4px;
+  padding: 6px 12px;
+  font-weight: bold;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+.App button:hover {
+  background: #c23866;
+}
+
+.card-grid {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
