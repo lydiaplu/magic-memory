@@ -1,6 +1,6 @@
-#Card Memory Game
+# Card Memory Game
 
-##Project Overview
+## Project Overview
 
 This is a learning project based on the Udemy course:
 
@@ -22,3 +22,6 @@ Card Memory Game is a web application built with React that challenges users to 
 - **Match Pairs**: If two revealed cards match, they remain visible.
 - **Win Condition**: The game is won when all matching pairs are found.
 - **Restart Game**: Option to restart the game and play again.
+
+<img width="1097" alt="image" src="https://github.com/user-attachments/assets/51f4811f-8282-4519-bdb3-469e6b96b30d">
+
